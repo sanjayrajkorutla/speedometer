@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container{
+background-color: #07080c;
+height:100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 20px;
+}
+img{
+width:60%;
+}
+h1{
+color: azure;
+}
+p{
+color:white;
+}
+.button{
+border-radius:5px ;
+background-color:hsl(217, 100%, 52%) ;
+border: 1px solid hsl(217, 100%, 52%) ;
+margin: 5px;
+}
+.button1{
+border-radius:5px ;
+background-color:#07080c ;
+color: white;
+border: 1px solid white;
+margin: 5px;
+}
